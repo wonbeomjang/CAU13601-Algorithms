@@ -1,4 +1,4 @@
-# CAU13601_Algorithms
+# CAU13601-Algorithms
 
 Algorithm assignment on Chung-Ang Univ.
 
